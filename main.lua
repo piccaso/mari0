@@ -1139,7 +1139,7 @@ function defaultconfig()
 	scale = 2
 	volume = 1
 	mappack = "smb"
-	vsync = true
+	vsync = false
 
 	reachedworlds = {}
 end
